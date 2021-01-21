@@ -36,9 +36,9 @@ $ chmod +x count.py twice.py five.py
 ```
 
 * launchファイルのディレクトリに入る  
-`$cd ~/catkin_ws/src/mypkg/launch` 
+`$ cd ~/catkin_ws/src/mypkg/launch` 
 
-* ROSパッケージ起動 
+* ROSパッケージ起動  
 `$ roslaunch mypkg mypkg.launch` 
 
 ## 出力された数字を確認する(ノードの実行)

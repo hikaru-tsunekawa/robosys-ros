@@ -46,10 +46,10 @@ $ chmod +x count.py twice.py five.py
 * "roslaunch"を実行したものとは別の端末を立ち上げる
 
 * 2倍  
-`端末2$ rostopic echo /twice`
+`端末2 $ rostopic echo /twice`
 
 * 5倍  
-`端末2$ rostopic echo /five`
+`端末3 $ rostopic echo /five`
 
 * ctrl + c を押すまでそれぞれ数字がカウントされる
 
